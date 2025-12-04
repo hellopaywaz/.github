@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="[YOUR_IMAGE_URL](https://github.com/hellopaywaz/.github/blob/main/paywaz-cover.png.png)" alt="Paywaz – Powering the Future of Zero-Fee Payments" width="100%" />
+  <img src="https://github.com/hellopaywaz/.github/blob/main/paywaz-cover.png?raw=1" 
+       alt="Paywaz – Powering the Future of Zero-Fee Payments" 
+       width="100%" />
 </p>
+
 # Paywaz — Zero-Fee Payments. Global. Crypto-Native. AI-Driven.
 
 Paywaz is a next-generation payments infrastructure that eliminates traditional
