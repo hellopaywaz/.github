@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/hellopaywaz/.github/blob/main/paywaz-cover.png?raw=1" 
+  <img src="https://raw.githubusercontent.com/hellopaywaz/.github/main/paywaz-cover.png.png" 
        alt="Paywaz – Powering the Future of Zero-Fee Payments" 
        width="100%" />
 </p>
