@@ -14,7 +14,7 @@ Built on **Solana Mainnet**, Paywaz delivers:
 - **AI-Powered Treasury, Risk & Settlement Engines**
 - **Global Workforce & Cross-Border Payment Solutions**
 
-Paywaz is currently operating in **stealth mode**, with public developer access
+Paywaz is currently operating in **semi-stealth mode**, with public developer access
 and SDKs rolling out as we progress toward launch.
 
 ---
